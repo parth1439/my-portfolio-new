@@ -19,22 +19,15 @@ function About() {
                 <div className="about-text">
 
                     <p>
-                        Full Stack Developer at Prehost Technologies
-                        with practical experience in designing and
-                        developing modern web applications.
+                        I'm a Full Stack Developer currently working at Prehost Technologies, where I turn ideas into complete, working web applications — from building reliable backend systems and REST APIs to creating clean, responsive frontend interfaces.
                     </p>
 
                     <p>
-                        Skilled in Python, Django, Node.js, SQL,
-                        MongoDB and REST APIs. Passionate about
-                        building scalable, high-performance applications
-                        and delivering efficient solutions.
+                        I work across the stack, connecting APIs, structuring databases such as MySQL, MongoDB, and PostgreSQL, and making sure applications are reliable, maintainable, and practical for real-world use. I enjoy solving problems, building useful features, and continuously improving the way I develop software.
                     </p>
 
                     <p>
-                        I am continuously learning new technologies
-                        and improving my development skills by
-                        working on practical projects.
+                        Alongside my core development work, I enjoy exploring AI tools and modern technologies that can make the development process smarter and more efficient. I'm always looking to learn, experiment with new technologies, and take on projects that help me grow as a developer.
                     </p>
 
                 </div>
@@ -61,6 +54,11 @@ function About() {
                         <small>Education</small>
                         <strong>Diploma in Computer Engineering</strong>
                     </div>
+
+                    {/* <div className="info-item">
+                        <small>Focus</small>
+                        <strong>Full Stack Python Development</strong>
+                    </div> */}
 
                 </div>
 

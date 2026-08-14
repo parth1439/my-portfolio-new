@@ -68,13 +68,13 @@ function Skills() {
                 <div className="skill-card">
 
                     <div className="skill-icon">
-                        Ai
+                        AI
                     </div>
 
-                    <h3>Ai Tools</h3>
+                    <h3>AI Tools</h3>
 
                     <p>
-                        Chatgpt, Gimini,
+                        ChatGPT, Gemini,
                         Claude, Antigravity, Cursor
                     </p>
 
@@ -101,9 +101,9 @@ function Skills() {
             <div className="skill-card">
 
                     <div className="skill-icon">
-                        Testing
+                        QA
                     </div>
-                    <h3>Tools</h3>
+                    <h3>Testing</h3>
                     <p>
                         Postman, Pytest,
                         Jest

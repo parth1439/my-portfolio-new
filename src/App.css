@@ -293,11 +293,11 @@ body {
 ========================= */
 
 .section {
-    padding: 100px 10%;
+    padding: 80px 10%;
 }
 
 .section-heading {
-    margin-bottom: 55px;
+    margin-bottom: 42px;
 }
 
 .section-heading.center {
@@ -348,9 +348,13 @@ body {
 .about-text p {
     color: #68627e;
 
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 
     font-size: 16px;
+}
+
+.about-text p:last-child {
+    margin-bottom: 0;
 }
 
 .about-info {
@@ -366,7 +370,7 @@ body {
 }
 
 .info-item {
-    padding: 18px 0;
+    padding: 20px 0;
 
     border-bottom: 1px solid #e5e1f5;
 
@@ -548,7 +552,7 @@ body {
 ========================= */
 
 .projects {
-    padding: 90px 8%;
+    padding: 80px 8%;
 }
 
 .projects-grid {
